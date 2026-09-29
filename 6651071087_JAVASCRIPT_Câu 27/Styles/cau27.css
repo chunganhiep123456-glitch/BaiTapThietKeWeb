@@ -1,0 +1,4 @@
+table.gio { background: #ccffcc; border: 1px solid #99cc99; border-collapse: separate; border-spacing: 2px; font-size: 16px; }
+table.gio th { background: #b3f5b3; padding: 6px 18px; font-size: 18px; }
+table.gio td { padding: 2px; text-align: center; }
+table.gio input[type=text] { width: 150px; }

@@ -1,0 +1,5 @@
+body { font-family: "Times New Roman", serif; }
+.box { display: inline-block; border: 1px solid #999; padding: 10px 14px; }
+input[type=text] { width: 200px; margin: 2px 0; }
+#kq { font-size: 18px; }
+.loi { color: red; }

@@ -1,0 +1,5 @@
+.khung { width: 480px; border: 1px solid #66cccc; font-size: 18px; }
+.khung h3 { margin: 0; padding: 6px; text-align: center; background: #ffffcc; }
+.khung .noidung { background: #ccffff; padding: 6px 8px; display: flex; justify-content: space-between; align-items: flex-end; }
+input[type=text] { width: 170px; font-size: 16px; }
+.loi { color: red; font-size: 14px; }

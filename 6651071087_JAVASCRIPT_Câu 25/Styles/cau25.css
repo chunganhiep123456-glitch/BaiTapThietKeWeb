@@ -1,0 +1,7 @@
+table.menu { background: #ccff00; border: 2px solid #99cc00; border-collapse: collapse; width: 420px; text-align: center; }
+table.menu td, table.menu th { border: 1px solid #99cc00; padding: 4px; }
+th.tieude { color: blue; }
+select { width: 130px; }
+table.hoadon { background: #aaffff; border: 2px solid #800000; border-collapse: collapse; width: 100%; margin: 4px 0; }
+table.hoadon td, table.hoadon th { border: 1px solid #800000; text-align: left; padding: 1px 3px; }
+table.hoadon th { color: blue; text-align: center; }
